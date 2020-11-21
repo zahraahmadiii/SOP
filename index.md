@@ -40,4 +40,4 @@
           
 
 
-[English-sop](/English-sop)
+English-sop:<a href="https://zahraahmadiii.github.io/zahraahmadiiigithub.io-sop-/"> Resume</a>
