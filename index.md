@@ -29,4 +29,4 @@
 توانمندی خاص من درحال حاضر اموزش زبان انگلیسی است         
 
 
-English-sop:<a href="https://zahraahmadiii.github.io/zahraahmadiiigithub.io-sop-/"> Resume</a>
+English-sop:<a href="https://zahraahmadiii.github.io/English-sop/"> Resume</a>
